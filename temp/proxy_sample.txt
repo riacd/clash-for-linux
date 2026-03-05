@@ -1,0 +1,50 @@
+proxies:
+  - {name: "最新网址: w01.fbweba.cc", server: fbnode-all.6pzfwf.com, port: 56201, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Hong Kong-01, server: fbnode-all.6pzfwf.com, port: 56201, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Hong Kong-02, server: fbnode-all.6pzfwf.com, port: 56202, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Hong Kong-03, server: fbnode-all.6pzfwf.com, port: 56203, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Hong Kong-04, server: fbnode-all.6pzfwf.com, port: 56204, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Hong Kong-05, server: fbnode-all.6pzfwf.com, port: 56205, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Hong Kong-06, server: fbnode-all.6pzfwf.com, port: 56206, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Hong Kong-07, server: fbnode-all.6pzfwf.com, port: 56207, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Hong Kong-08, server: fbnode-all.6pzfwf.com, port: 56208, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Hong Kong-09, server: fbnode-all.6pzfwf.com, port: 56209, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Hong Kong-10, server: fbnode-all.6pzfwf.com, port: 56210, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Hong Kong-11, server: fbnode-all.6pzfwf.com, port: 56211, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Hong Kong-12, server: fbnode-all.6pzfwf.com, port: 56212, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Hong Kong-13, server: fbnode-all.6pzfwf.com, port: 56213, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Hong Kong-14, server: fbnode-all.6pzfwf.com, port: 56214, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Hong Kong-15, server: fbnode-all.6pzfwf.com, port: 56215, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Hong Kong-16, server: fbnode-all.6pzfwf.com, port: 56216, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Hong Kong-17, server: fbnode-all.6pzfwf.com, port: 56217, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Hong Kong-18, server: fbnode-all.6pzfwf.com, port: 56218, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Hong Kong-19, server: fbnode-all.6pzfwf.com, port: 56219, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Hong Kong-20, server: fbnode-all.6pzfwf.com, port: 56220, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Taiwan-01, server: fbnode-all.6pzfwf.com, port: 56221, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Taiwan-02, server: fbnode-all.6pzfwf.com, port: 56222, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Taiwan-03, server: fbnode-all.6pzfwf.com, port: 56223, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Taiwan-04, server: fbnode-all.6pzfwf.com, port: 56224, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Taiwan-05, server: fbnode-all.6pzfwf.com, port: 56225, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Taiwan-06, server: fbnode-all.6pzfwf.com, port: 56226, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Taiwan-07, server: fbnode-all.6pzfwf.com, port: 56227, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Taiwan-08, server: fbnode-all.6pzfwf.com, port: 56228, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Taiwan-09, server: fbnode-all.6pzfwf.com, port: 56229, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Taiwan-10, server: fbnode-all.6pzfwf.com, port: 56230, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Japan-01, server: fbnode-all.6pzfwf.com, port: 56231, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Japan-02, server: fbnode-all.6pzfwf.com, port: 56232, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Japan-03, server: fbnode-all.6pzfwf.com, port: 56233, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Japan-04, server: fbnode-all.6pzfwf.com, port: 56234, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Japan-05, server: fbnode-all.6pzfwf.com, port: 56235, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Japan-06, server: fbnode-all.6pzfwf.com, port: 56236, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Japan-07, server: fbnode-all.6pzfwf.com, port: 56237, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Japan-08, server: fbnode-all.6pzfwf.com, port: 56238, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Japan-09, server: fbnode-all.6pzfwf.com, port: 56239, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Japan-10, server: fbnode-all.6pzfwf.com, port: 56240, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Singapore-01, server: fbnode-all.6pzfwf.com, port: 56241, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Singapore-02, server: fbnode-all.6pzfwf.com, port: 56242, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Singapore-03, server: fbnode-all.6pzfwf.com, port: 56243, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Singapore-04, server: fbnode-all.6pzfwf.com, port: 56244, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Singapore-05, server: fbnode-all.6pzfwf.com, port: 56245, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Singapore-06, server: fbnode-all.6pzfwf.com, port: 56246, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Singapore-07, server: fbnode-all.6pzfwf.com, port: 56247, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}
+  - {name: Singapore-08, server: fbnode-all.6pzfwf.com, port: 56248, type: trojan, password: 74e0a8a8-5996-30eb-9e51-8907d6f6a40d, skip-cert-verify: true, udp: true}

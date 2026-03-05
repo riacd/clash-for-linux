@@ -1,0 +1,30 @@
+# HTTP proxy port
+port: 7894
+
+# SOCKS5 proxy port
+socks-port: 7895
+
+# Linux and macOS redir proxy port
+redir-port: 7896
+
+# Mixed port (HTTP + SOCKS5)
+mixed-port: 7893
+
+# Allow LAN connections
+allow-lan: true
+
+# Rule mode: Rule / Global / Direct
+mode: rule
+
+# Log level: silent / info / warning / error / debug
+log-level: info
+
+# Clash RESTful API
+external-controller: '0.0.0.0:9091'
+
+# RESTful API secret
+secret: '8ee297bfe3766c40f513087834cf96118050dee3388ed5366eb5ed27babf1e60'
+
+# External UI directory
+# external-ui: /path/to/dashboard
+
