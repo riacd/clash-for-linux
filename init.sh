@@ -144,11 +144,8 @@ clash_auto_proxy() {
   fi
 
   echo "[INFO] Clash not running, auto-starting..."
-  if [[ -f "${CLASH_PROJECT_DIR}/auto-start-clash.sh" ]]; then
-    bash "${CLASH_PROJECT_DIR}/auto-start-clash.sh"
-  else
-    (cd "${CLASH_PROJECT_DIR}" && bash start.sh)
-  fi
+  cd "${CLASH_PROJECT_DIR}"
+  bash start.sh
 
   if _clash_is_running && _clash_port_listening 7893; then
     proxy_on > /dev/null 2>&1
