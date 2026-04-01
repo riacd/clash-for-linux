@@ -1,3 +1,7 @@
 /temp/
-/logs/
 /conf/
+/temp/
+/logs/
+
+/.env
+/AGENTS.md
