@@ -6,6 +6,11 @@
 CLASH_PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 export CLASH_PROJECT_DIR
 
+mkdir -p "${CLASH_PROJECT_DIR}/temp"
+mkdir -p "${CLASH_PROJECT_DIR}/logs"
+mkdir -p "${CLASH_PROJECT_DIR}/conf"
+
+
 _clash_is_running() {
   pgrep -f "clash-linux" > /dev/null 2>&1
 }
