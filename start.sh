@@ -174,7 +174,7 @@ fi
 sed -i '/^$/d' $Conf_Dir/config.yaml
 
 # 修改 external-controller 端口避免冲突
-sed -i "s/^external-controller: .*/external-controller: '0.0.0.0:9091'/" $Conf_Dir/config.yaml
+sed -i "s/^external-controller: .*/external-controller: '127.0.0.1:9091'/" $Conf_Dir/config.yaml
 
 # 设置日志级别为 info 便于调试
 sed -i 's/^log-level: .*/log-level: info/' $Conf_Dir/config.yaml
@@ -210,7 +210,7 @@ fi
 
 # Output Dashboard access address and Secret
 echo ''
-echo -e "Clash Dashboard 访问地址: http://<ip>:9090/ui"
+echo -e "Clash Dashboard 访问地址: http://127.0.0.1:9091/ui"
 echo -e "Secret: ${Secret}"
 echo ''
 
@@ -238,8 +238,6 @@ echo -e "             ﾚ'ヽL__|___i,___,ンﾚ|ノ"
 echo -e "                  ﾄ-,/  |___./"
 echo -e "                  'ｰ'    !_,.:"
 echo -e "本项目完全免费，若你是收费买的，恭喜您，您被骗了！"
-echo -e "项目地址：https://github.com/Elegycloud/clash-for-linux-backup"
-echo -e "项目随时会寄，且行且珍惜！"
-echo -e "请执行以下命令加载环境变量: source /etc/profile.d/clash.sh\n"
+echo -e "项目地址：https://github.com/riacd/clash-for-linux"
 echo -e "请执行以下命令开启系统代理: proxy_on\n"
 echo -e "若要临时关闭系统代理，请执行: proxy_off\n"
