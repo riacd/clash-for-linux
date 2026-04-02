@@ -13,6 +13,19 @@ source $Server_Dir/.env
 
 # 给二进制启动程序、脚本等添加可执行权限
 chmod +x $Server_Dir/bin/*
+
+# 确保已有 Clash 进程已停止
+_pid=$(ps -ef | grep "[c]lash-linux" | awk '{print $2}')
+if [[ -n "$_pid" ]]; then
+  echo "Stopping existing Clash processes: $_pid"
+  pkill -f "clash-linux"
+  sleep 1
+  if ps -ef | grep "[c]lash-linux" &>/dev/null; then
+    pkill -9 -f "clash-linux"
+    sleep 1
+  fi
+fi
+unset _pid
 chmod +x $Server_Dir/scripts/*
 chmod +x $Server_Dir/tools/subconverter/subconverter
 
